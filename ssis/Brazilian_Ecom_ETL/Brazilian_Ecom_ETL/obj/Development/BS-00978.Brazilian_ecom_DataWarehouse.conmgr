@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="BS-00978.Brazilian_ecom_DataWarehouse"
+  DTS:DTSID="{1C92A578-2F1C-4FA8-BE73-9E3203533221}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=BS-00978;Initial Catalog=Brazilian_ecom_DataWarehouse;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Brazilian_Ecom_ETL-{1C92A578-2F1C-4FA8-BE73-9E3203533221}BS-00978.Brazilian_ecom_DataWarehouse;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
