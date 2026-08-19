@@ -98,7 +98,7 @@ The project utilizes a **Star Schema** data model consisting of 6 relational tab
 2. Open **Microsoft Power BI Desktop**.
 3. Open the `.pbix` file included in the repository.
 
-![Order & Review Analytics](docs/images/pic power bi.png)
+
 
 ## 🔧 Requirements
 
