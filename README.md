@@ -14,7 +14,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ## Data Architecture
 
-![Data Architecture](docs/images/PROJECT arc.drawio_.png)
+![Data Architecture](docs/images/PROJECT_arc.png)
 
 The data architecture for this project follows Medallion Architecture: **Bronze**, **Silver**, and **Gold** layers:
 
@@ -57,7 +57,7 @@ To complement the T-SQL scripts, this project also includes an SSIS (SQL Server 
 All packages use project‑level connection managers (including the Azure SQL Database connection and flat file connections for each source) and are designed for deployment on **Azure‑SSIS Integration Runtime** within Azure Data Factory, enabling cloud‑native scheduling, logging, and monitoring.
 📁 [View SSIS project](ssis/Brazilian_Ecom_ETL)
 
-![SSIS Master Control Flow](docs/images/ETL PIC.png)
+![SSIS Master Control Flow](docs/images/ETL_PIC.png)
 
 ---
 
@@ -114,7 +114,7 @@ This dashboard is based on the [Brazilian E-Commerce Public Dataset by Olist](ht
 Enjoy exploring your e-commerce insights! 📈
 🔗 [View live Power BI report](https://app.powerbi.com/groups/me/reports/a5bc4ccc-82e2-4226-8bdd-d0760c0a6c64/9855483420e083251d64?experience=power-bi)
 
-![Commercial Overview Dashboard](docs/images/Pic power1.png)
+![Commercial Overview Dashboard](docs/images/Pic_power1.png)
 
 ---
 
