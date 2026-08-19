@@ -1,5 +1,5 @@
-# brazilian-ecommerce-dwh
-# Data Warehouse and Analytics Project
+
+# Brazilian E-Commerce Data Warehouse and Analytics Project
 
 Building a modern data warehouse with SQL Server — including a T-SQL ETL pipeline, an SSIS ETL pipeline, automated job scheduling, data modeling, and a Power BI analytics layer.
 
